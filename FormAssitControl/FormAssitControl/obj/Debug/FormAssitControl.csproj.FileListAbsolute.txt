@@ -1,0 +1,36 @@
+C:\Users\LUÍSFELIPE\Documents\Visual Studio 2015\Projects\FormAssitControl\FormAssitControl\FormAssitControl\bin\Debug\FormAssitControl.dll
+C:\Users\LUÍSFELIPE\Documents\Visual Studio 2015\Projects\FormAssitControl\FormAssitControl\FormAssitControl\bin\Debug\FormAssitControl.pdb
+C:\Users\LUÍSFELIPE\Documents\Visual Studio 2015\Projects\FormAssitControl\FormAssitControl\FormAssitControl\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\LUÍSFELIPE\Documents\Visual Studio 2015\Projects\FormAssitControl\FormAssitControl\FormAssitControl\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\LUÍSFELIPE\Documents\Visual Studio 2015\Projects\FormAssitControl\FormAssitControl\FormAssitControl\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\LUÍSFELIPE\Documents\Visual Studio 2015\Projects\FormAssitControl\FormAssitControl\FormAssitControl\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\LUÍSFELIPE\Documents\Visual Studio 2015\Projects\FormAssitControl\FormAssitControl\FormAssitControl\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\LUÍSFELIPE\Documents\Visual Studio 2015\Projects\FormAssitControl\FormAssitControl\FormAssitControl\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\LUÍSFELIPE\Documents\Visual Studio 2015\Projects\FormAssitControl\FormAssitControl\FormAssitControl\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\LUÍSFELIPE\Documents\Visual Studio 2015\Projects\FormAssitControl\FormAssitControl\FormAssitControl\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\LUÍSFELIPE\Documents\Visual Studio 2015\Projects\FormAssitControl\FormAssitControl\FormAssitControl\obj\Debug\FormAssitControl.csprojResolveAssemblyReference.cache
+C:\Users\LUÍSFELIPE\Documents\Visual Studio 2015\Projects\FormAssitControl\FormAssitControl\FormAssitControl\obj\Debug\FormAssitControl.App.xaml.g.cs
+C:\Users\LUÍSFELIPE\Documents\Visual Studio 2015\Projects\FormAssitControl\FormAssitControl\FormAssitControl\obj\Debug\FormAssitControl.View.StudentDetailPage.xaml.g.cs
+C:\Users\LUÍSFELIPE\Documents\Visual Studio 2015\Projects\FormAssitControl\FormAssitControl\FormAssitControl\obj\Debug\FormAssitControl.View.FormsAssistControlPage.xaml.g.cs
+C:\Users\LUÍSFELIPE\Documents\Visual Studio 2015\Projects\FormAssitControl\FormAssitControl\FormAssitControl\obj\Debug\FormAssitControl.dll
+C:\Users\LUÍSFELIPE\Documents\Visual Studio 2015\Projects\FormAssitControl\FormAssitControl\FormAssitControl\obj\Debug\FormAssitControl.pdb
+C:\Users\LUÍSFELIPE\Desktop\FormAssitControl\FormAssitControl\FormAssitControl\bin\Debug\FormAssitControl.dll
+C:\Users\LUÍSFELIPE\Desktop\FormAssitControl\FormAssitControl\FormAssitControl\bin\Debug\FormAssitControl.pdb
+C:\Users\LUÍSFELIPE\Desktop\FormAssitControl\FormAssitControl\FormAssitControl\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\LUÍSFELIPE\Desktop\FormAssitControl\FormAssitControl\FormAssitControl\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\LUÍSFELIPE\Desktop\FormAssitControl\FormAssitControl\FormAssitControl\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\LUÍSFELIPE\Desktop\FormAssitControl\FormAssitControl\FormAssitControl\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\LUÍSFELIPE\Desktop\FormAssitControl\FormAssitControl\FormAssitControl\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\LUÍSFELIPE\Desktop\FormAssitControl\FormAssitControl\FormAssitControl\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\LUÍSFELIPE\Desktop\FormAssitControl\FormAssitControl\FormAssitControl\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\LUÍSFELIPE\Desktop\FormAssitControl\FormAssitControl\FormAssitControl\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\LUÍSFELIPE\Desktop\FormAssitControl\FormAssitControl\FormAssitControl\obj\Debug\FormAssitControl.csprojResolveAssemblyReference.cache
+C:\Users\LUÍSFELIPE\Desktop\FormAssitControl\FormAssitControl\FormAssitControl\obj\Debug\FormAssitControl.App.xaml.g.cs
+C:\Users\LUÍSFELIPE\Desktop\FormAssitControl\FormAssitControl\FormAssitControl\obj\Debug\FormAssitControl.View.StudentDetailPage.xaml.g.cs
+C:\Users\LUÍSFELIPE\Desktop\FormAssitControl\FormAssitControl\FormAssitControl\obj\Debug\FormAssitControl.View.FormsAssistControlPage.xaml.g.cs
+C:\Users\LUÍSFELIPE\Desktop\FormAssitControl\FormAssitControl\FormAssitControl\obj\Debug\FormAssitControl.dll
+C:\Users\LUÍSFELIPE\Desktop\FormAssitControl\FormAssitControl\FormAssitControl\obj\Debug\FormAssitControl.pdb
+C:\Users\LUÍSFELIPE\Desktop\FormAssitControl\FormAssitControl\FormAssitControl\obj\Debug\FormAssitControl.dll.mdb
+C:\Users\LUÍSFELIPE\Desktop\FormAssitControl\FormAssitControl\FormAssitControl\bin\Debug\FormAssitControl.dll.mdb
+C:\Users\LUÍSFELIPE\Desktop\FormAssitControl\FormAssitControl\FormAssitControl\obj\Debug\FormAssitControl.dll.mdb
+C:\Users\LUÍSFELIPE\Desktop\FormAssitControl\FormAssitControl\FormAssitControl\bin\Debug\FormAssitControl.dll.mdb
