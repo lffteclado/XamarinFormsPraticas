@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-
+using Xamarin.Forms;
 using Android.App;
 using Android.Content;
 using Android.OS;
@@ -12,7 +12,9 @@ using Android.Widget;
 using FormAssitControl.Storage.Interfaces;
 using SQLite;
 using System.IO;
+using FormAssitControl.Droid.Storage.Implementations;
 
+[assembly: Dependency(typeof(SQliteDroid))]
 namespace FormAssitControl.Droid.Storage.Implementations
 {
     public class SQliteDroid : ISQlite

@@ -55,3 +55,5 @@ C:\Users\LUÍSFELIPE\Source\Repos\XamarinFormsPraticas\FormAssitControl\FormAssi
 C:\Users\LUÍSFELIPE\Source\Repos\XamarinFormsPraticas\FormAssitControl\FormAssitControl\obj\Debug\FormAssitControl.pdb
 C:\Users\LUÍSFELIPE\Source\Repos\XamarinFormsPraticas\FormAssitControl\FormAssitControl\obj\Debug\FormAssitControl.dll.mdb
 C:\Users\LUÍSFELIPE\Source\Repos\XamarinFormsPraticas\FormAssitControl\FormAssitControl\bin\Debug\FormAssitControl.dll.mdb
+C:\Users\LUÍSFELIPE\Source\Repos\XamarinFormsPraticas\FormAssitControl\FormAssitControl\obj\Debug\FormAssitControl.dll.mdb
+C:\Users\LUÍSFELIPE\Source\Repos\XamarinFormsPraticas\FormAssitControl\FormAssitControl\bin\Debug\FormAssitControl.dll.mdb

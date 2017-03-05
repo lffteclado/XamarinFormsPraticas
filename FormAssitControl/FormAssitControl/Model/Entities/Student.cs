@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FormAssitControl.Storage;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,8 +7,14 @@ using System.Threading.Tasks;
 
 namespace FormAssitControl.Model.Entities
 {
-    public class Student:ObservableBaseObject
+    public class Student:ObservableBaseObject, IKeyObject
     {
+        public string Key
+        {
+            get;
+            set;
+        }
+
         private string name;
 
         public string Name
@@ -47,5 +54,7 @@ namespace FormAssitControl.Model.Entities
             get { return average; }
             set { average = value; OnPropertyChanged(); }
         }
+
+        
     }
 }
