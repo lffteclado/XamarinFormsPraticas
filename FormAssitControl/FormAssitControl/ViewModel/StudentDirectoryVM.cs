@@ -44,7 +44,7 @@ namespace FormAssitControl.ViewModel
             {
                 IsBusy = true;
 
-                await Task.Delay(10000);
+                await Task.Delay(10);
 
                 var loadedDirectory = StudentDirectoryService.LoadStudentDirectory();
 
